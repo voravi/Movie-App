@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501900464265",
+    "project_id": "rnw-practical-round",
+    "storage_bucket": "rnw-practical-round.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501900464265:android:09baa6065176a7ad143658",
+        "android_client_info": {
+          "package_name": "com.practical.test.practical_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501900464265-km276jlnj8r5tls9jf8po29jm1cmu51l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkeNhJ6JUriM6oL5MNEk5tQfCn9j-g9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501900464265-km276jlnj8r5tls9jf8po29jm1cmu51l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
